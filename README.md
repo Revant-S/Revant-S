@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Revant-S
 - 👀 I’m interested in Quantum computing, Computational physics and therotical physics
-- 👨‍💻 I'm semi fluent in JAVA and C++
+- 👨‍💻 I'm semi fluent in JAVA ,C and C++
 - 🌱 I’m currently learning python, Linear algebra and multivariable calculus
 - 💞️ I’m looking to collaborate on quantum computation and AL/ML related projects
 
