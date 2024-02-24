@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development , Quantum computing, Computational physics and therotical physics
 - 👨‍💻 I'm fluent in JAVA ,C,javascript and C++
 - 🌱 I’m currently learning python, Linear algebra and multivariable calculus
-- 💞️ I’m looking to collaborate on quantum computation,AL/ML and MERN Stack related projects
+- 💞️ I’m looking to collaborate on  MERN Stack ,quantum computation and AI/ML related projects
 
 
 <!---
