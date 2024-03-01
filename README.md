@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Revant-S
-- 👀 I’m interested in Web development , Quantum computing, Computational physics and therotical physics
+- 👀 I’m interested in Web development ,Cryptography , Quantum computing, Computational physics and therotical physics
 - 👨‍💻 I'm fluent in JAVA ,C,javascript and C++
-- 🌱 I’m currently learning python, Linear algebra and multivariable calculus
 - 💞️ I’m looking to collaborate on  MERN Stack ,quantum computation and AI/ML related projects
 
 
